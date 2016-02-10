@@ -1,4 +1,4 @@
-x2A ECE 391 Bug Log
+Team x2A Bug Log
 
 Checkpoint 1
 1) 
